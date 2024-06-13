@@ -51,4 +51,4 @@ if __name__ == "__main__":
         if acd_stats:
             print(acd_stats)
     else:
-        print("Authentication failed. Exiting...")
+        print("Authentication failed. Exiting now...")
